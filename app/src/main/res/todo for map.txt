@@ -1,0 +1,27 @@
+test for the map looks exactly the same as for the other rest service, except the assertNotNull() stuff
+
+RestClient.java currently only works for the bitcoin data. the restclient for the map looks completely the same, all you need to change is the baseURL
+ok apiservice needs to be created aswell, looks the same but different url (i gonna write u in hangouts whats up with them)
+
+the second restclient is gonna look like
+<- done.
+
+the second apiservice is gonna look like
+<- done do u know what i mean?
+ok you could put everything in the same apiservice, but you mb gonna lose control over it overtime if too much shit is in it.
+mb just create ApiServiceBtcPrices, ApiServiceMap.
+actually nvm
+no, wait
+
+ok, do you know what we did?
+yes i think that should work, execute the old test to see if the no restclient still works
+
+ohh, sec
+pls nice it works
+well, the old one still works c: we dont get any object yet.
+
+ok, so what you gonna do now is,
+- create the map data ( the object that u gonna retreive from the json, see the other in btc package for example)
+- write the second test for map response
+i think thats all u gonan need to do now, the map object might be tricky but u can ask if something is not clear c:
+yy ill try and do that now c: ty go google hangouts

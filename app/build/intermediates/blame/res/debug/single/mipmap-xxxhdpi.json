@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\Bitcoin\\BitcoinApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\bitcoin_logo_pic.png",
+        "source": "D:\\Bitcoin\\BitcoinApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\bitcoin_logo_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\Gedas\\Documents\\BitcoinApp-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Gedas\\Documents\\BitcoinApp-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Bitcoin\\BitcoinApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "D:\\Bitcoin\\BitcoinApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Gedas\\Documents\\BitcoinApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\btc_final_logo.png",
+        "source": "C:\\Users\\Gedas\\Documents\\BitcoinApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\btc_final_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Gedas\\Downloads\\BitcoinApp-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\btc_final_logo.png",
+        "source": "C:\\Users\\Gedas\\Downloads\\BitcoinApp-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\btc_final_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Gedas\\Downloads\\BitcoinApp-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Gedas\\Downloads\\BitcoinApp-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Gedas\\Downloads\\BitcoinApp-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\bitcoin_logo_pic.png",
+        "source": "C:\\Users\\Gedas\\Downloads\\BitcoinApp-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\bitcoin_logo_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\Gedas\\Documents\\BitcoinApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Gedas\\Documents\\BitcoinApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Bitcoin\\BitcoinApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\btc_final_logo.png",
+        "source": "D:\\Bitcoin\\BitcoinApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\btc_final_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Gedas\\Documents\\BitcoinApp-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\bitcoin_logo_pic.png",
+        "source": "C:\\Users\\Gedas\\Documents\\BitcoinApp-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\bitcoin_logo_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\Gedas\\Documents\\BitcoinApp-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\btc_final_logo.png",
+        "source": "C:\\Users\\Gedas\\Documents\\BitcoinApp-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\btc_final_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Gedas\\Documents\\BitcoinApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\bitcoin_logo_pic.png",
+        "source": "C:\\Users\\Gedas\\Documents\\BitcoinApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\bitcoin_logo_pic.png"
+    }
+]

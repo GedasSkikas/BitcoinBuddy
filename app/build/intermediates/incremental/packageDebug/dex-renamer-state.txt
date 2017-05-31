@@ -1,0 +1,7 @@
+#Fri May 05 11:50:28 BST 2017
+base.0=C\:\\Users\\Gedas\\Downloads\\BitcoinApp-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_012d068b992103c4c54d3052186b4d5d4efef4f7
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Gedas\\Downloads\\BitcoinApp-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9380aa66d10e46f27ae442d2f33bf06cc4f9376d\\classes.dex
+base.1=C\:\\Users\\Gedas\\Downloads\\BitcoinApp-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9380aa66d10e46f27ae442d2f33bf06cc4f9376d
+file.0=C\:\\Users\\Gedas\\Downloads\\BitcoinApp-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_012d068b992103c4c54d3052186b4d5d4efef4f7\\classes.dex

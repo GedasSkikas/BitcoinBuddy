@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#e0efc0">
+
+        <Button
+            android:id="@+id/expandableButton1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="#ba1f04"
+            android:drawableRight="@android:drawable/arrow_down_float"
+            android:onClick="expandableButton1"
+            android:paddingRight="10dp"
+            android:text="What is Bitcoin"
+            android:textColor="#fff" />
+
+        <com.github.aakira.expandablelayout.ExpandableRelativeLayout
+            android:id="@+id/expandableLayout1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/expandableButton1"
+            android:background="#90ba1f04"
+            android:padding="16dp"
+            app:ael_duration="400"
+            app:ael_expanded="false"
+            app:ael_interpolator="bounce"
+            app:ael_orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="220dp"
+                android:text="Bitcoin is a form of digital currency, created and held electronically. It is the first decentralized peer-to-peer payment network that is powered by its users with no central authority or middlemen, meaning that no one controls it. Bitcoins aren’t printed, like dollars or euros – they’re produced by people, and increasingly businesses, running computers all around the world, using software that solves mathematical problems. From a user perspective, Bitcoin is pretty much like cash for the internet, which you can use anonymously. " />
+        </com.github.aakira.expandablelayout.ExpandableRelativeLayout>
+
+
+        <Button
+            android:id="@+id/expandableButton2"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/expandableLayout1"
+            android:background="#b77803"
+            android:drawableRight="@android:drawable/arrow_down_float"
+            android:onClick="expandableButton2"
+            android:paddingRight="10dp"
+            android:text="Is Bitcoin secure"
+            android:textColor="#fff" />
+
+        <com.github.aakira.expandablelayout.ExpandableRelativeLayout
+            android:id="@+id/expandableLayout2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/expandableButton2"
+            android:background="#90b77803"
+            android:padding="16dp"
+            app:ael_duration="400"
+            app:ael_expanded="false"
+            app:ael_interpolator="bounce"
+            app:ael_orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="210dp"
+                android:text="The Bitcoin technology itself, the protocol and the cryptography - have a strong security track record, but unfortunately Bitcoin's most common vulnerability is in user error. Bitcoin wallet files that store the necessary private keys can be accidentally deleted, lost or stolen, which leads to the user losing all of their Bitcoin.
+If safety measures are taken, such as using services that offer good levels of security and insure the user against theft or loss, the user shouldn't be worried about Bitcoins security." />
+        </com.github.aakira.expandablelayout.ExpandableRelativeLayout>
+
+        <Button
+            android:id="@+id/expandableButton3"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/expandableLayout2"
+            android:background="#10a106"
+            android:drawableRight="@android:drawable/arrow_down_float"
+            android:onClick="expandableButton3"
+            android:paddingRight="10dp"
+            android:text="Where do I get Bitcoin"
+            android:textColor="#fff" />
+
+        <com.github.aakira.expandablelayout.ExpandableRelativeLayout
+            android:id="@+id/expandableLayout3"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/expandableButton3"
+            android:background="#9010a106"
+            android:padding="16dp"
+            app:ael_duration="400"
+            app:ael_expanded="false"
+            app:ael_interpolator="bounce"
+            app:ael_orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="250dp"
+                android:text="While it may be possible to find individuals who wish to sell Bitcoins in exchange for a credit card or PayPal payment, the most common way of acquiring Bitcoin
+is to purchase it via popular Bitcoin exchanges. Coinbase, Kraken, Bitstamp are amongst the most popular exchanges that people use to purchase and use Bitcoin with. Some security measures are taken before the user
+is allowed to purchase Bitcoin, such as proof of identification, but once that is done, users are free to buy, sell and use Bitcoin at their convenience. More detailed information can be found at previously mentioned
+exchange websites." />
+        </com.github.aakira.expandablelayout.ExpandableRelativeLayout>
+
+
+        <Button
+            android:id="@+id/expandableButton4"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/expandableLayout3"
+            android:background="#066da1"
+            android:drawableRight="@android:drawable/arrow_down_float"
+            android:onClick="expandableButton4"
+            android:paddingRight="10dp"
+            android:text="How do I use Bitcoin"
+            android:textColor="#fff" />
+
+        <com.github.aakira.expandablelayout.ExpandableRelativeLayout
+            android:id="@+id/expandableLayout4"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/expandableButton4"
+            android:background="#90066da1"
+            android:padding="16dp"
+            app:ael_duration="400"
+            app:ael_expanded="false"
+            app:ael_interpolator="bounce"
+            app:ael_orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="180dp"
+                android:text="Bitcoins, just like dollars, euros or any other currency in the world, are widely accepted and can be used to purchase anything the user wants. Most businesses online now advertise if they accept Bitcoin payments,
+to find which local shops accept Bitcoin around you, check the Bitcoin Map function on the main menu, which displays shops that accept Bitcoin as payment around you." />
+        </com.github.aakira.expandablelayout.ExpandableRelativeLayout>
+
+        //
+
+        <Button
+            android:id="@+id/expandableButton5"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/expandableLayout4"
+            android:background="#ba1f04"
+            android:drawableRight="@android:drawable/arrow_down_float"
+            android:onClick="expandableButton5"
+            android:paddingRight="10dp"
+            android:text="Who controls Bitcoin"
+            android:textColor="#fff" />
+
+        <com.github.aakira.expandablelayout.ExpandableRelativeLayout
+            android:id="@+id/expandableLayout5"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/expandableButton5"
+            android:background="#90ba1f04"
+            android:padding="16dp"
+            app:ael_duration="400"
+            app:ael_expanded="false"
+            app:ael_interpolator="bounce"
+            app:ael_orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="195dp"
+                android:text="Nobody controls the Bitcoin network much like no one controls the technology behind e-mail. Bitcoin is controlled by all Bitcoin users around the world simultaneously. While developers are improving the software, they can't force a change in the Bitcoin protocol because all users are free to choose what software and version they use, meaning that
+it's impossible for one person or organisation to ever control Bitcoin." />
+        </com.github.aakira.expandablelayout.ExpandableRelativeLayout>
+
+        //
+
+        <Button
+            android:id="@+id/expandableButton6"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/expandableLayout5"
+            android:background="#b77803"
+            android:drawableRight="@android:drawable/arrow_down_float"
+            android:onClick="expandableButton6"
+            android:paddingRight="10dp"
+            android:text="Is Bitcoin legal"
+            android:textColor="#fff" />
+
+        <com.github.aakira.expandablelayout.ExpandableRelativeLayout
+            android:id="@+id/expandableLayout6"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/expandableButton6"
+            android:background="#90b77803"
+            android:padding="16dp"
+            app:ael_duration="400"
+            app:ael_expanded="false"
+            app:ael_interpolator="bounce"
+            app:ael_orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="190dp"
+                android:text="While some jurisdictions (such as Russia) severely restrict or ban foreign currencies and other jurisdictions (such as Thailand) may limit the licensing of certain entities such as Bitcoin exchanges,
+but as of now, Bitcoin has not been made illegal by law anywhere in the world. Different rules may apply when it comes to acquiring Bitcoin from exchanges, but it is not illegal in any way." />
+        </com.github.aakira.expandablelayout.ExpandableRelativeLayout>
+
+        //
+
+        <Button
+            android:id="@+id/expandableButton7"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/expandableLayout6"
+            android:background="#10a106"
+            android:drawableRight="@android:drawable/arrow_down_float"
+            android:onClick="expandableButton7"
+            android:paddingRight="10dp"
+            android:text="Can Bitcoin become worthless"
+            android:textColor="#fff" />
+
+        <com.github.aakira.expandablelayout.ExpandableRelativeLayout
+            android:id="@+id/expandableLayout7"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/expandableButton7"
+            android:background="#9010a106"
+            android:padding="16dp"
+            app:ael_duration="400"
+            app:ael_expanded="false"
+            app:ael_interpolator="bounce"
+            app:ael_orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="200dp"
+                android:text="While incredibly unlikely, the short answer is - it could. There are various reasons for the currency of a country becoming worthless, for instance, inflation, negative economic growth, political instability and so on. However, Bitcoin is above these issues. It is not controlled by any organizations, banks or other institutions. Thus, Bitcoin will continue to always have value as long as there are people who use it." />
+        </com.github.aakira.expandablelayout.ExpandableRelativeLayout>
+
+        //
+
+        <Button
+            android:id="@+id/expandableButton8"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/expandableLayout7"
+            android:background="#066da1"
+            android:drawableRight="@android:drawable/arrow_down_float"
+            android:onClick="expandableButton8"
+            android:paddingRight="10dp"
+            android:text="What determines Bitcoins value"
+            android:textColor="#fff" />
+
+        <com.github.aakira.expandablelayout.ExpandableRelativeLayout
+            android:id="@+id/expandableLayout8"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/expandableButton8"
+            android:background="#90066da1"
+            android:padding="16dp"
+            app:ael_duration="400"
+            app:ael_expanded="false"
+            app:ael_interpolator="bounce"
+            app:ael_orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="175dp"
+                android:text="Just like with anything, the price of a Bitcoin is determined by supply and demand. When demand for Bitcoin increases, the price increases, and when demand falls, the price falls. Bitcoin is still a relatively small market compared to other currencies, it doesn't take significant amounts of money to move the market price up or down, and thus the price of a Bitcoin is still quite volatile." />
+        </com.github.aakira.expandablelayout.ExpandableRelativeLayout>
+
+        //
+
+        <Button
+            android:id="@+id/expandableButton9"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/expandableLayout8"
+            android:background="#ba1f04"
+            android:drawableRight="@android:drawable/arrow_down_float"
+            android:onClick="expandableButton9"
+            android:paddingRight="10dp"
+            android:text="What happens when Bitcoin is lost"
+            android:textColor="#fff" />
+
+        <com.github.aakira.expandablelayout.ExpandableRelativeLayout
+            android:id="@+id/expandableLayout9"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/expandableButton9"
+            android:background="#90ba1f04"
+            android:padding="16dp"
+            app:ael_duration="400"
+            app:ael_expanded="false"
+            app:ael_interpolator="bounce"
+            app:ael_orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="200dp"
+                android:text="When a user loses his wallet, it has the same effect as removing money out of circulation. Lost Bitcoin remain dormant forever because there is no way for anybody to find the private key that would allow them to be spent again. Because of the law of supply and demand, when fewer Bitcoins are available, the ones that are left will be in higher demand and increase in value. So be careful
+to not misplace your Bitcoin!" />
+        </com.github.aakira.expandablelayout.ExpandableRelativeLayout>
+
+        //
+
+        <Button
+            android:id="@+id/expandableButton10"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/expandableLayout9"
+            android:background="#b77803"
+            android:drawableRight="@android:drawable/arrow_down_float"
+            android:onClick="expandableButton10"
+            android:paddingRight="10dp"
+            android:text="Are there transaction fees"
+            android:textColor="#fff" />
+
+        <com.github.aakira.expandablelayout.ExpandableRelativeLayout
+            android:id="@+id/expandableLayout10"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/expandableButton10"
+            android:background="#90b77803"
+            android:padding="16dp"
+            app:ael_duration="400"
+            app:ael_expanded="false"
+            app:ael_interpolator="bounce"
+            app:ael_orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="155dp"
+                android:text="When buying your first Bitcoin at certain exchanges, they usually charge a fee of around 5% (varies highly) depending on the size of your purchase. But once the user has acquired said Bitcoin, they can send and receive Bitcoin for practically free. There are almost no fees involved after the initial purchases." />
+        </com.github.aakira.expandablelayout.ExpandableRelativeLayout>
+
+        //
+
+        <Button
+            android:id="@+id/expandableButton11"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/expandableLayout10"
+            android:background="#10a106"
+            android:drawableRight="@android:drawable/arrow_down_float"
+            android:onClick="expandableButton11"
+            android:paddingRight="10dp"
+            android:text="Can you counterfeit Bitcoin"
+            android:textColor="#fff" />
+
+        <com.github.aakira.expandablelayout.ExpandableRelativeLayout
+            android:id="@+id/expandableLayout11"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/expandableButton11"
+            android:background="#9010a106"
+            android:padding="16dp"
+            app:ael_duration="400"
+            app:ael_expanded="false"
+            app:ael_interpolator="bounce"
+            app:ael_orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="150dp"
+                android:text="Because Bitcoin uses cryptography to verify all transactions. Only the correct digital signature will allow Bitcoins to be spent. Miners verify and process this data while they try to solve the proof of work. This prevents people from spending Bitcoins they do not own or creating Bitcoins that were not issued by the network." />
+        </com.github.aakira.expandablelayout.ExpandableRelativeLayout>
+
+        //
+
+        <Button
+            android:id="@+id/expandableButton12"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/expandableLayout11"
+            android:background="#066da1"
+            android:drawableRight="@android:drawable/arrow_down_float"
+            android:onClick="expandableButton12"
+            android:paddingRight="10dp"
+            android:text="How is Bitcoin created"
+            android:textColor="#fff" />
+
+        <com.github.aakira.expandablelayout.ExpandableRelativeLayout
+            android:id="@+id/expandableLayout12"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/expandableButton12"
+            android:background="#90066da1"
+            android:padding="16dp"
+            app:ael_duration="400"
+            app:ael_expanded="false"
+            app:ael_interpolator="bounce"
+            app:ael_orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="295dp"
+                android:text="Bitcoin are created by miners. Mining is a word used to describe the discovery of new Bitcoin. In reality, it's simply the verification of Bitcoin transactions. For example, Tom buys a laptop from Simon with Bitcoin. In order to make sure his Bitcoin is genuine, miners begin to verify the transaction. It's not just one transaction individuals are trying to verify; it's many. All the transactions are gathered into boxes with a virtual padlock on them - called the block chain. Miners run software to find the key that will open that padlock. Once their computer finds it, the box pops open and the transactions are verified. For finding that needle in a haystack key, the miners get a reward of newly generated Bitcoins. And that's how new Bitcoin are created." />
+        </com.github.aakira.expandablelayout.ExpandableRelativeLayout>
+    </RelativeLayout>
+</ScrollView>

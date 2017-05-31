@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\806f9506ab11af7d21856fb1d455dee6611de498\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_3387e98d80201fac9a26da845398e2e2ca7959a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\00e2fe6251e58a92177a16ec7687e9837fcd29f3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_e2e2ae07403bd52fce3055af20e1d39ed3a95079.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\333f44dfdc8e3cf9bd64dfa00517c87ba2fefc5c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_1691997ada82aa6252599a9e751ada92022befbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\812ca5c57fa1d25cd51b7c755a20f3b518c72f4d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ebfde1a055aea400df77584a68aa60609f618bed">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_c442f5af77524dd9bb8f936acb2fd42e3643f482.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\a0ce0e242936938a24429e13150ad7cc86116074\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8126914f5bc372a33e27ea90f02412c32468ce8a">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_d2f6ece8c37256eb28db41402e8d3ceec682a6e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.gradle\caches\modules-2\files-2.1\org.parceler\parceler-api\0.2.13\3bdd7267446c60215c6165a8129cc572ad407660\parceler-api-0.2.13.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3bdd7267446c60215c6165a8129cc572ad407660">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\parceler-api-0.2.13_de11c9c3afa62d355bc0de7010ebcadd6cdf9e24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\03f590eb3a301c50e019faf4ccf2670f6a27cb09\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2d1cd4e6ef2b9b02b939c273dea7ce3c75b25734">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_376001189ad87ee6a6c757d8f734b353b812c24c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\6b0a737d827e8c13ae20719b078a945b576d4a14\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c5bc0ebbe69c9fab587c2216b36ec44ab8f0704">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_8881288825077eef1936063169d3cc2ace888471.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\a0ee1b8734287b5d88f8851c67bbd9a59173ac96\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ef5c5c2afbd174d55cf1cfcac7d0346cbc4c1322">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_545a27999ece69813110dde45c4eefbb9fba0605.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.2.0\41e67dba73c3347e4503761642c39d0e06ca1f2\retrofit-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\retrofit-2.2.0_dd875854e8bc9fc739d164c4c6717c4b0b1e2f01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\28173a5c4de1cfffd0658946ca488f83aa6ae5c5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0facc6fc326f2406f4bb9b02f442994c5ce6a403">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_c00aa13d06ba99e3f1b85edba376eb5ae60718c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\6480e1718cff679b164e2c26888a540a7b97b425\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_819fa9aaedef39b476d843afdd2f3ac1832c7b98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\dc49aa29b3a0407ce1be143f225abce6a39f06d4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5289e799a43a64c4137d109bf992e10a2f952aa3">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_fd3fde312b9920f7708250dc356535144c989cd8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gedas\.android\build-cache\7373cac2169bd56566c942575ab7e5e29ca3908b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f9ce3f3b4c92fbd2bc3a36d5cd0537f1b865ddc5\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\825fb7089eacd9c1bab26df056f141767d0ada65\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_3ad215f7c8c81dce0b84c5755a4e42cf49367364.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\e362bcbb815b9d542f8e04d64f467bb53bc2375a\output\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_6db5b607f693b595da37fdd1410e2d78dc26462b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\40bb61a2365cefc3bac6252fe68d79b08a1cbce4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="59cca9b91688dc2467754d36793b3d23bebd21a9">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_db8b0dc011480d2f2b374493b1a59efecf86dcd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\62c94e57705cac7270b5ff06c67cdade84fe0f35\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a819aae4f0c711e50b4fd633922a3c1a176cb51e">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_ee140d8e67ba6f3ebe2abdea5a4ceae44313b563.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\okio-1.11.0_d93b0ffb1941a080e6e6bcba5db4ad5023412bb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\97a864082f91f38ea040ec6bc5c903a39d8e57f7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2f7bd8cc7519d5231aa8d2ae8e905d3f602bd491">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_839fa62a754854907151a9115b6350e950feb77d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\ab1270dcdbf5b0388aaa766ac2ed5ba4e2160c9b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_99c993e7790fec1d4ee5d07120906d5b27a51e4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\05d2298f283ddf186f866e7186fa89b0434e2ea9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="373cd65725af2781d100ddc193c7d3f14464a774">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_d7c868fb04193d5fe85c8493e7acdf1e57f8cf4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\ede0687118c2e88ceb5966a4b73557a1c0c9c0aa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ed16ff19f0a9515604a0f08104ca0317b82e29e3">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_41cbdb53665a3571732feef220d7ca05fecf9c09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\796899fc520ba843642df29d2d89bff4c572d601\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4431efe5d0f67fab36a698dde725946b33a6bf4a">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_32699a0a478166171dd373350e08aa91ba0e46ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\5882e450a74a13267d7bae54663c32a05bc77026\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_da2d53f1c7426f3b5ab1a19a45607008254a22de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\c6a8d0f29a2618dc379251b54069b89a258c1410\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69472e334350cafbf442776da05c9a04955252fb">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_47c22a7455d0d04024ac50643c6c0673b8dea507.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\055243af5056e79e227f70e5d1d6ce140a06f328\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7a23185c9b1c100e7d1a32275017e4712e31c796">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_37361a1d6d7fcd75981d3bb61078fd0023b8982c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\3ec58a2fdcd83c8d5f4ddbd1ae199238ee3b37d5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67a7d712de3e7d025f4efdcec1da183f764bdbab">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_9b802c180c538fc6bec10a4c1e3bbe29ef747d3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\5450fe77db06d15ce148bd587a5a6763f37bef52\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7002ed92a3c46c6a89a786877ecf7978a4f0459">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_ddad3d1c552a712f2dd67d8b12bc4a28e76678cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_416858e69ad3c695d8e40f644324010c7dfcecd5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\7c5488749a040315e047648b407d2fa62fdac509\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_98b651af8ceb3fae070b1299b7a3c7e56eccae62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\e21684c3722ba79c24ca0af1666fde5ae3b5ebb6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="379d1834afa3c08f43be23a23b103053537b65b5">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_6d997281d3956ce2b0e145cb1bbe2fa7750d5075.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\15e16b931626984b086a7e962d7534c7bae30050\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f4e85eafa876cd7d7641244867dac3f88d71e866">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_ea1b2265efdce13f867fed765c14056908ccc426.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\535edea6ddb69b120ad369cfa37e62c7193222d2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b8ba0b9f0aa49a9180676e72ad6767473b15f74a">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_8786905ad6bba8b16171841833d293f833d27a52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\937e6a446fbea69d87857925fa135d322ad3bafd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_5824192e64c7a026c0f8b838713c84f53f6ad2e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\47def9cb1ddf3d4853e859fb178c714b499032df\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_2197f314e4bd5f8ff8af6eb9ce532b7f77eb9713.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\0ed091f57c5ac44a3c8e14a52870f6c615caf7c5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="32a5a566ae197603d0bed3e6d1d275f6a771564e">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_c2dc9707d9090f869000230c160120c3168088ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_28e7a73b5cca149f3d4c330e2922c55f69c73a0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\186f04217aa9a0e248095d2587475b70db4441c0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e467a973b749c6390a5991c9a8edbde96fc10c9">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_d5f64886f4ccf328a4f6f24a6b6ba9ff8e399242.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\1008ef0530d663baf6d2d49a66a68aba02be5dd1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="294d49a66cc1238d9f7fd352136a45622fa98c0f">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_bb6e19218e313071515f38bd3846f1ef3ed84748.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\ea649ce8571cff51c1306e3fe07ab4c7481331e2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_6fff32393813f1752615abf80931a3324097466a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\baf19dd00b4fbe1c812410cc50a55c77ce1a9645\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_0d34afe5203ea24f2d3aaebbc5e8ebd8829acd16.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="785d199e281dc909241fa1f8c0b327c6e39043e3">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9380aa66d10e46f27ae442d2f33bf06cc4f9376d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\523d0a6605f0d586c5adc8bcd11d408cdd21d833\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4caf75b2cfb7ec6e80a57d0ee64fc102ad3578b8">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_187b793717c4392dd65415f8c617dc00484856f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\5234c47d9265dce55cd746a8c6160ecd8688192a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70ddab48594608953b20164b82f1f890a9a8174a">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_34576b4842756e4330c5fe82929f17c0b6f25a2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\75649f342bb20b6e7abae7dde24d5daf15db840e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e595f98f8c525201dccd119f43ad1ddacd4c48d6">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_4ec6aabbf8902087f4ba0204a54e52c59d82a8aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\ddda794cf3c9b6eea89a8f108e22e82ee5539f7e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f0f6913a208a126269aaa68004ed0329a832c5b">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_21fa565e3b32470794089f90e1099a03362ea1d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\babd871b413b913ea36a6fd4d595582ed2550615\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_70bbd2f19f5599d0db30e0a732c263c86f3ce332.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\5b0b02e1a5f993f7f3b2266f6a07c20d6509a360\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="184428c29b2a4b220cd44284d515db5d8cb5fc76">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_2573f1cf1fca3acbea43291e12ed52a4d116453f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\e362bcbb815b9d542f8e04d64f467bb53bc2375a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_10184c8cdea4ba910c0cbeda0bd80f86ac1f6a97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\982d60f9ab31d80f0f35c3ec8507062a9ae5bdda\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b8bedab61b3b5238cd9a07d3b04449d7fecdbc3b">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_3d092ef74d8d142f11cdda6cc2dc7825ea131731.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.2.0\a09926806199499a20b2f5168779499abfa33342\converter-gson-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09926806199499a20b2f5168779499abfa33342">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\converter-gson-2.2.0_f8d90b2add8dfa1070294e3366dfebc9ac10a6c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\273230a756cb99fb6721fd39ae0d6cf91c856b8a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7da84426d876216ed4cdddd85e739be5ecabdd04">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_719e2c9ca0e1f2b998158f10b8202267f1aa09b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\84267305b25b8700b11928d8eed65ea62dee88be\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="24536a7b97926a9c155c88425da6875adeb11b51">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_b1c482f784b982164321fd8aa0f46f2174b4e270.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\397533723f05074b49ef18961e133c572642e5df\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_a81e4eea1f67b94551ec0cc206aa4c70f6eb1524.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\80e976c237718447b5efdfa351692cbc60a62a94\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c11cf7a7a6e5adf8fa564303a11dbc351fc11b7c">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_05c7da9229eb4c41b0bd8975fa84fbee24ec972d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\80309098203fc79a8001a8ab92c4f015a0150950\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_7ce9065df1880a3cb227a5e87422e19f50611f62.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_012d068b992103c4c54d3052186b4d5d4efef4f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\910efb160456b4781a44feef57841fc1de25d758\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_2c0eb716cd6878588499bd2f463fa803dbd804ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.gradle\caches\modules-2\files-2.1\org.parceler\parceler\0.2.13\ea3579621a7fe7083e7f7bb8be0d90c8751acbf9\parceler-0.2.13.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea3579621a7fe7083e7f7bb8be0d90c8751acbf9">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\parceler-0.2.13_cd2d5eb2f620bab26f925b176208080235e2c4a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\9b3ae54cce6ff614cac7cf3eed921a1e3f0a5dcc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_ebaeb5bde81f23c41bb4ef66da9f5723dc741e8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\106b80f6a8f247cc86a1ad159e7793ab02612bcc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d96f9f3ef66494d1231304cafd28c962dda80dea">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_c9553dd44f2bb717875928b358f21f2cdf5f912d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\db813102b4a56b58de3f74b3cd06007fcab4be99\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="817b9101192f2fd6dc0fd8cd522d8f4a1a75fcdc">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_9e77390efbf8e7249f4e2d7be163179b22aaf3b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\7d238a7ea086253d89e1033c934a662bc84dd607\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_f3316b80ad11e5fae511cd082d94bdb408942f22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\dabc15cd0cd3330e7c1c23fc4f82c405b8527229\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="005786793d72c6deacbbbfd38177ed58e1aa6653">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_1dd2eb7c57cfd1bb5415b5c31e9bba30db115afa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\gson-2.7_5ef498532168418edca4dc5970c55184f5810a1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\a33ef0fd601af73954a772ce4a993d119927b838\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_b76b4749d96ffca996dabbb631ee9f4a24c3a370.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\09c3abc288575092c1ce6821b61e4f4239549e9d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="79e4b41db41d4dbbf364c7bd6aaeee5b876c9d8b">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_0a9be76b757007ca0ca135b59eaab98096f691b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\e21d7ce945f577c57126bfe77624a0a116abbdea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="733964f04c339e425439545b1d172c23b53f8c13">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_103736aa9479a414a6f46c1ed3dd24d441e35d1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\a610bf5ff8574ac095abff8ddf9b4362307643af\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_307ea36382cc1751d7b1bd730e77c0bfb4a306d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gedas\.android\build-cache\aa0737453d469dd81d116b22d3ab6058ca60506c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cb29455028e92e024bbad0d41c6ec772f2433d1">
+        <dex dex="C:\Users\Gedas\Downloads\BitcoinApp-master\app\build\intermediates\pre-dexed\debug\classes_98ab2dccbbc49e370134a64fbfc9963232d05e7b.jar" />
+    </item>
+
+</items>

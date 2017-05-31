@@ -1,0 +1,455 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Gedas\Downloads\BitcoinApp-master\app\src\main\AndroidManifest.xml:2:1-63:12
+	package
+		ADDED from C:\Users\Gedas\Downloads\BitcoinApp-master\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\Users\Gedas\Downloads\BitcoinApp-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gedas\Downloads\BitcoinApp-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Gedas\Downloads\BitcoinApp-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gedas\Downloads\BitcoinApp-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Gedas\Downloads\BitcoinApp-master\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Gedas\Downloads\BitcoinApp-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gedas\Downloads\BitcoinApp-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Gedas\Downloads\BitcoinApp-master\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\Users\Gedas\Downloads\BitcoinApp-master\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Gedas\Downloads\BitcoinApp-master\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from C:\Users\Gedas\Downloads\BitcoinApp-master\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Gedas\Downloads\BitcoinApp-master\app\src\main\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:9.0.0] C:\Users\Gedas\.android\build-cache\09c3abc288575092c1ce6821b61e4f4239549e9d\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:9.0.0] C:\Users\Gedas\.android\build-cache\982d60f9ab31d80f0f35c3ec8507062a9ae5bdda\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:9.0.0] C:\Users\Gedas\.android\build-cache\106b80f6a8f247cc86a1ad159e7793ab02612bcc\output\AndroidManifest.xml:19:5-67
+MERGED from [com.google.firebase:firebase-crash:9.0.0] C:\Users\Gedas\.android\build-cache\186f04217aa9a0e248095d2587475b70db4441c0\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-gcm:9.0.0] C:\Users\Gedas\.android\build-cache\523d0a6605f0d586c5adc8bcd11d408cdd21d833\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-iid:9.0.0] C:\Users\Gedas\.android\build-cache\e21684c3722ba79c24ca0af1666fde5ae3b5ebb6\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.0.0] C:\Users\Gedas\.android\build-cache\05d2298f283ddf186f866e7186fa89b0434e2ea9\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.0.0] C:\Users\Gedas\.android\build-cache\c6a8d0f29a2618dc379251b54069b89a258c1410\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Gedas\.android\build-cache\6480e1718cff679b164e2c26888a540a7b97b425\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\Gedas\.android\build-cache\806f9506ab11af7d21856fb1d455dee6611de498\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Gedas\.android\build-cache\333f44dfdc8e3cf9bd64dfa00517c87ba2fefc5c\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-maps:9.0.0] C:\Users\Gedas\.android\build-cache\62c94e57705cac7270b5ff06c67cdade84fe0f35\output\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from C:\Users\Gedas\Downloads\BitcoinApp-master\app\src\main\AndroidManifest.xml:7:22-64
+uses-feature#0x00020000
+ADDED from C:\Users\Gedas\Downloads\BitcoinApp-master\app\src\main\AndroidManifest.xml:9:5-11:34
+MERGED from [com.google.android.gms:play-services-maps:9.0.0] C:\Users\Gedas\.android\build-cache\62c94e57705cac7270b5ff06c67cdade84fe0f35\output\AndroidManifest.xml:22:5-24:33
+	android:glEsVersion
+		ADDED from C:\Users\Gedas\Downloads\BitcoinApp-master\app\src\main\AndroidManifest.xml:10:9-41
+	android:required
+		ADDED from C:\Users\Gedas\Downloads\BitcoinApp-master\app\src\main\AndroidManifest.xml:11:9-32
+supports-screens
+ADDED from C:\Users\Gedas\Downloads\BitcoinApp-master\app\src\main\AndroidManifest.xml:13:5-22:24
+application
+ADDED from C:\Users\Gedas\Downloads\BitcoinApp-master\app\src\main\AndroidManifest.xml:24:5-60:19
+MERGED from [com.google.android.gms:play-services:9.0.0] C:\Users\Gedas\.android\build-cache\33ae1b28140a8f9ded16ed908bf185d216004f81\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:9.0.0] C:\Users\Gedas\.android\build-cache\09c3abc288575092c1ce6821b61e4f4239549e9d\output\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-analytics:9.0.0] C:\Users\Gedas\.android\build-cache\982d60f9ab31d80f0f35c3ec8507062a9ae5bdda\output\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:9.0.0] C:\Users\Gedas\.android\build-cache\106b80f6a8f247cc86a1ad159e7793ab02612bcc\output\AndroidManifest.xml:20:5-30:19
+MERGED from [com.google.android.gms:play-services-auth:9.0.0] C:\Users\Gedas\.android\build-cache\273230a756cb99fb6721fd39ae0d6cf91c856b8a\output\AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-cast:9.0.0] C:\Users\Gedas\.android\build-cache\75649f342bb20b6e7abae7dde24d5daf15db840e\output\AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\Gedas\.android\build-cache\e362bcbb815b9d542f8e04d64f467bb53bc2375a\output\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config:9.0.0] C:\Users\Gedas\.android\build-cache\812ca5c57fa1d25cd51b7c755a20f3b518c72f4d\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.firebase:firebase-crash:9.0.0] C:\Users\Gedas\.android\build-cache\186f04217aa9a0e248095d2587475b70db4441c0\output\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-auth:9.0.0] C:\Users\Gedas\.android\build-cache\5234c47d9265dce55cd746a8c6160ecd8688192a\output\AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-auth-common:9.0.0] C:\Users\Gedas\.android\build-cache\ddda794cf3c9b6eea89a8f108e22e82ee5539f7e\output\AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-messaging:9.0.0] C:\Users\Gedas\.android\build-cache\dabc15cd0cd3330e7c1c23fc4f82c405b8527229\output\AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-fitness:9.0.0] C:\Users\Gedas\.android\build-cache\97a864082f91f38ea040ec6bc5c903a39d8e57f7\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:9.0.0] C:\Users\Gedas\.android\build-cache\6b0a737d827e8c13ae20719b078a945b576d4a14\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:9.0.0] C:\Users\Gedas\.android\build-cache\1008ef0530d663baf6d2d49a66a68aba02be5dd1\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:9.0.0] C:\Users\Gedas\.android\build-cache\523d0a6605f0d586c5adc8bcd11d408cdd21d833\output\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:9.0.0] C:\Users\Gedas\.android\build-cache\796899fc520ba843642df29d2d89bff4c572d601\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-iid:9.0.0] C:\Users\Gedas\.android\build-cache\e21684c3722ba79c24ca0af1666fde5ae3b5ebb6\output\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-nearby:9.0.0] C:\Users\Gedas\.android\build-cache\28173a5c4de1cfffd0658946ca488f83aa6ae5c5\output\AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-panorama:9.0.0] C:\Users\Gedas\.android\build-cache\3ec58a2fdcd83c8d5f4ddbd1ae199238ee3b37d5\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:9.0.0] C:\Users\Gedas\.android\build-cache\db813102b4a56b58de3f74b3cd06007fcab4be99\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:9.0.0] C:\Users\Gedas\.android\build-cache\80e976c237718447b5efdfa351692cbc60a62a94\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.0.0] C:\Users\Gedas\.android\build-cache\05d2298f283ddf186f866e7186fa89b0434e2ea9\output\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.0.0] C:\Users\Gedas\.android\build-cache\c6a8d0f29a2618dc379251b54069b89a258c1410\output\AndroidManifest.xml:24:5-38:19
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Gedas\.android\build-cache\6480e1718cff679b164e2c26888a540a7b97b425\output\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\Gedas\.android\build-cache\806f9506ab11af7d21856fb1d455dee6611de498\output\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Gedas\.android\build-cache\333f44dfdc8e3cf9bd64dfa00517c87ba2fefc5c\output\AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.android.gms:play-services-vision:9.0.0] C:\Users\Gedas\.android\build-cache\15e16b931626984b086a7e962d7534c7bae30050\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-identity:9.0.0] C:\Users\Gedas\.android\build-cache\dc49aa29b3a0407ce1be143f225abce6a39f06d4\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-wearable:9.0.0] C:\Users\Gedas\.android\build-cache\5b0b02e1a5f993f7f3b2266f6a07c20d6509a360\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-location:9.0.0] C:\Users\Gedas\.android\build-cache\40bb61a2365cefc3bac6252fe68d79b08a1cbce4\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:9.0.0] C:\Users\Gedas\.android\build-cache\62c94e57705cac7270b5ff06c67cdade84fe0f35\output\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\Gedas\.android\build-cache\a33ef0fd601af73954a772ce4a993d119927b838\output\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-common:9.0.0] C:\Users\Gedas\.android\build-cache\7c5488749a040315e047648b407d2fa62fdac509\output\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] C:\Users\Gedas\.android\build-cache\ab1270dcdbf5b0388aaa766ac2ed5ba4e2160c9b\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\Gedas\.android\build-cache\47def9cb1ddf3d4853e859fb178c714b499032df\output\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:cardview-v7:25.1.1] C:\Users\Gedas\.android\build-cache\7d238a7ea086253d89e1033c934a662bc84dd607\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:25.1.1] C:\Users\Gedas\.android\build-cache\00e2fe6251e58a92177a16ec7687e9837fcd29f3\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\Gedas\.android\build-cache\babd871b413b913ea36a6fd4d595582ed2550615\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\Gedas\.android\build-cache\910efb160456b4781a44feef57841fc1de25d758\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\Gedas\.android\build-cache\baf19dd00b4fbe1c812410cc50a55c77ce1a9645\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.1.1] C:\Users\Gedas\.android\build-cache\397533723f05074b49ef18961e133c572642e5df\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\Gedas\.android\build-cache\9b3ae54cce6ff614cac7cf3eed921a1e3f0a5dcc\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\Gedas\.android\build-cache\825fb7089eacd9c1bab26df056f141767d0ada65\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\Gedas\.android\build-cache\a610bf5ff8574ac095abff8ddf9b4362307643af\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\Gedas\.android\build-cache\937e6a446fbea69d87857925fa135d322ad3bafd\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\Gedas\.android\build-cache\5882e450a74a13267d7bae54663c32a05bc77026\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\Gedas\.android\build-cache\ea649ce8571cff51c1306e3fe07ab4c7481331e2\output\AndroidManifest.xml:25:5-20
+MERGED from [com.github.traex.expandablelayout:library:1.3] C:\Users\Gedas\.android\build-cache\03f590eb3a301c50e019faf4ccf2670f6a27cb09\output\AndroidManifest.xml:11:5-20
+MERGED from [com.github.aakira:expandable-layout:1.4.2] C:\Users\Gedas\.android\build-cache\535edea6ddb69b120ad369cfa37e62c7193222d2\output\AndroidManifest.xml:12:5-20
+	android:label
+		ADDED from C:\Users\Gedas\Downloads\BitcoinApp-master\app\src\main\AndroidManifest.xml:27:9-37
+	android:supportsRtl
+		ADDED from C:\Users\Gedas\Downloads\BitcoinApp-master\app\src\main\AndroidManifest.xml:28:9-35
+	android:allowBackup
+		ADDED from C:\Users\Gedas\Downloads\BitcoinApp-master\app\src\main\AndroidManifest.xml:25:9-35
+	android:icon
+		ADDED from C:\Users\Gedas\Downloads\BitcoinApp-master\app\src\main\AndroidManifest.xml:26:9-46
+	android:theme
+		ADDED from C:\Users\Gedas\Downloads\BitcoinApp-master\app\src\main\AndroidManifest.xml:30:9-67
+	android:logo
+		ADDED from C:\Users\Gedas\Downloads\BitcoinApp-master\app\src\main\AndroidManifest.xml:29:9-43
+activity#com.example.Gedas.myapplication.MainActivity
+ADDED from C:\Users\Gedas\Downloads\BitcoinApp-master\app\src\main\AndroidManifest.xml:31:9-37:20
+	android:name
+		ADDED from C:\Users\Gedas\Downloads\BitcoinApp-master\app\src\main\AndroidManifest.xml:31:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Gedas\Downloads\BitcoinApp-master\app\src\main\AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Gedas\Downloads\BitcoinApp-master\app\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from C:\Users\Gedas\Downloads\BitcoinApp-master\app\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Gedas\Downloads\BitcoinApp-master\app\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from C:\Users\Gedas\Downloads\BitcoinApp-master\app\src\main\AndroidManifest.xml:35:27-74
+activity#com.example.Gedas.myapplication.MapActivity
+ADDED from C:\Users\Gedas\Downloads\BitcoinApp-master\app\src\main\AndroidManifest.xml:38:9-41:20
+	android:label
+		ADDED from C:\Users\Gedas\Downloads\BitcoinApp-master\app\src\main\AndroidManifest.xml:40:13-41
+	android:name
+		ADDED from C:\Users\Gedas\Downloads\BitcoinApp-master\app\src\main\AndroidManifest.xml:39:13-40
+activity#com.example.Gedas.myapplication.PriceActivity
+ADDED from C:\Users\Gedas\Downloads\BitcoinApp-master\app\src\main\AndroidManifest.xml:42:9-45:20
+	android:label
+		ADDED from C:\Users\Gedas\Downloads\BitcoinApp-master\app\src\main\AndroidManifest.xml:44:13-41
+	android:name
+		ADDED from C:\Users\Gedas\Downloads\BitcoinApp-master\app\src\main\AndroidManifest.xml:43:13-42
+activity#com.example.Gedas.myapplication.GuidesActivity
+ADDED from C:\Users\Gedas\Downloads\BitcoinApp-master\app\src\main\AndroidManifest.xml:46:9-49:20
+	android:label
+		ADDED from C:\Users\Gedas\Downloads\BitcoinApp-master\app\src\main\AndroidManifest.xml:48:13-41
+	android:name
+		ADDED from C:\Users\Gedas\Downloads\BitcoinApp-master\app\src\main\AndroidManifest.xml:47:13-43
+activity#com.example.Gedas.myapplication.AlertActivity
+ADDED from C:\Users\Gedas\Downloads\BitcoinApp-master\app\src\main\AndroidManifest.xml:50:9-53:20
+	android:label
+		ADDED from C:\Users\Gedas\Downloads\BitcoinApp-master\app\src\main\AndroidManifest.xml:52:13-41
+	android:name
+		ADDED from C:\Users\Gedas\Downloads\BitcoinApp-master\app\src\main\AndroidManifest.xml:51:13-42
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\Gedas\Downloads\BitcoinApp-master\app\src\main\AndroidManifest.xml:56:9-58:71
+	android:value
+		ADDED from C:\Users\Gedas\Downloads\BitcoinApp-master\app\src\main\AndroidManifest.xml:58:13-68
+	android:name
+		ADDED from C:\Users\Gedas\Downloads\BitcoinApp-master\app\src\main\AndroidManifest.xml:57:13-58
+uses-sdk
+INJECTED from C:\Users\Gedas\Downloads\BitcoinApp-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\Gedas\.android\build-cache\7373cac2169bd56566c942575ab7e5e29ca3908b\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services:9.0.0] C:\Users\Gedas\.android\build-cache\33ae1b28140a8f9ded16ed908bf185d216004f81\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-ads:9.0.0] C:\Users\Gedas\.android\build-cache\aa0737453d469dd81d116b22d3ab6058ca60506c\output\AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.0.0] C:\Users\Gedas\.android\build-cache\09c3abc288575092c1ce6821b61e4f4239549e9d\output\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-analytics:9.0.0] C:\Users\Gedas\.android\build-cache\982d60f9ab31d80f0f35c3ec8507062a9ae5bdda\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:9.0.0] C:\Users\Gedas\.android\build-cache\106b80f6a8f247cc86a1ad159e7793ab02612bcc\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-auth:9.0.0] C:\Users\Gedas\.android\build-cache\273230a756cb99fb6721fd39ae0d6cf91c856b8a\output\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-cast:9.0.0] C:\Users\Gedas\.android\build-cache\75649f342bb20b6e7abae7dde24d5daf15db840e\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\Gedas\.android\build-cache\e362bcbb815b9d542f8e04d64f467bb53bc2375a\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-config:9.0.0] C:\Users\Gedas\.android\build-cache\812ca5c57fa1d25cd51b7c755a20f3b518c72f4d\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-crash:9.0.0] C:\Users\Gedas\.android\build-cache\186f04217aa9a0e248095d2587475b70db4441c0\output\AndroidManifest.xml:22:5-42
+MERGED from [com.google.firebase:firebase-auth:9.0.0] C:\Users\Gedas\.android\build-cache\5234c47d9265dce55cd746a8c6160ecd8688192a\output\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-common:9.0.0] C:\Users\Gedas\.android\build-cache\ddda794cf3c9b6eea89a8f108e22e82ee5539f7e\output\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-module:9.0.0] C:\Users\Gedas\.android\build-cache\84267305b25b8700b11928d8eed65ea62dee88be\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database:9.0.0] C:\Users\Gedas\.android\build-cache\0ed091f57c5ac44a3c8e14a52870f6c615caf7c5\output\AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-database-connection:9.0.0] C:\Users\Gedas\.android\build-cache\a0ee1b8734287b5d88f8851c67bbd9a59173ac96\output\AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-messaging:9.0.0] C:\Users\Gedas\.android\build-cache\dabc15cd0cd3330e7c1c23fc4f82c405b8527229\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-storage:9.0.0] C:\Users\Gedas\.android\build-cache\e21d7ce945f577c57126bfe77624a0a116abbdea\output\AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-storage-common:9.0.0] C:\Users\Gedas\.android\build-cache\ede0687118c2e88ceb5966a4b73557a1c0c9c0aa\output\AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-fitness:9.0.0] C:\Users\Gedas\.android\build-cache\97a864082f91f38ea040ec6bc5c903a39d8e57f7\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:9.0.0] C:\Users\Gedas\.android\build-cache\6b0a737d827e8c13ae20719b078a945b576d4a14\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:9.0.0] C:\Users\Gedas\.android\build-cache\1008ef0530d663baf6d2d49a66a68aba02be5dd1\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:9.0.0] C:\Users\Gedas\.android\build-cache\523d0a6605f0d586c5adc8bcd11d408cdd21d833\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:9.0.0] C:\Users\Gedas\.android\build-cache\796899fc520ba843642df29d2d89bff4c572d601\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-iid:9.0.0] C:\Users\Gedas\.android\build-cache\e21684c3722ba79c24ca0af1666fde5ae3b5ebb6\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-nearby:9.0.0] C:\Users\Gedas\.android\build-cache\28173a5c4de1cfffd0658946ca488f83aa6ae5c5\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-panorama:9.0.0] C:\Users\Gedas\.android\build-cache\3ec58a2fdcd83c8d5f4ddbd1ae199238ee3b37d5\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:9.0.0] C:\Users\Gedas\.android\build-cache\db813102b4a56b58de3f74b3cd06007fcab4be99\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-auth-base:9.0.0] C:\Users\Gedas\.android\build-cache\055243af5056e79e227f70e5d1d6ce140a06f328\output\AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:9.0.0] C:\Users\Gedas\.android\build-cache\80e976c237718447b5efdfa351692cbc60a62a94\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager:9.0.0] C:\Users\Gedas\.android\build-cache\a0ce0e242936938a24429e13150ad7cc86116074\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.0.0] C:\Users\Gedas\.android\build-cache\05d2298f283ddf186f866e7186fa89b0434e2ea9\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.0.0] C:\Users\Gedas\.android\build-cache\c6a8d0f29a2618dc379251b54069b89a258c1410\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Gedas\.android\build-cache\6480e1718cff679b164e2c26888a540a7b97b425\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\Gedas\.android\build-cache\806f9506ab11af7d21856fb1d455dee6611de498\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Gedas\.android\build-cache\333f44dfdc8e3cf9bd64dfa00517c87ba2fefc5c\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-vision:9.0.0] C:\Users\Gedas\.android\build-cache\15e16b931626984b086a7e962d7534c7bae30050\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-wallet:9.0.0] C:\Users\Gedas\.android\build-cache\5450fe77db06d15ce148bd587a5a6763f37bef52\output\AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-identity:9.0.0] C:\Users\Gedas\.android\build-cache\dc49aa29b3a0407ce1be143f225abce6a39f06d4\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wearable:9.0.0] C:\Users\Gedas\.android\build-cache\5b0b02e1a5f993f7f3b2266f6a07c20d6509a360\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:9.0.0] C:\Users\Gedas\.android\build-cache\40bb61a2365cefc3bac6252fe68d79b08a1cbce4\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:9.0.0] C:\Users\Gedas\.android\build-cache\62c94e57705cac7270b5ff06c67cdade84fe0f35\output\AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\Gedas\.android\build-cache\a33ef0fd601af73954a772ce4a993d119927b838\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.0.0] C:\Users\Gedas\.android\build-cache\7c5488749a040315e047648b407d2fa62fdac509\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] C:\Users\Gedas\.android\build-cache\ab1270dcdbf5b0388aaa766ac2ed5ba4e2160c9b\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\Gedas\.android\build-cache\47def9cb1ddf3d4853e859fb178c714b499032df\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:cardview-v7:25.1.1] C:\Users\Gedas\.android\build-cache\7d238a7ea086253d89e1033c934a662bc84dd607\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:25.1.1] C:\Users\Gedas\.android\build-cache\00e2fe6251e58a92177a16ec7687e9837fcd29f3\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\Gedas\.android\build-cache\babd871b413b913ea36a6fd4d595582ed2550615\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\Gedas\.android\build-cache\910efb160456b4781a44feef57841fc1de25d758\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\Gedas\.android\build-cache\baf19dd00b4fbe1c812410cc50a55c77ce1a9645\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.1.1] C:\Users\Gedas\.android\build-cache\80309098203fc79a8001a8ab92c4f015a0150950\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.1.1] C:\Users\Gedas\.android\build-cache\397533723f05074b49ef18961e133c572642e5df\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\Gedas\.android\build-cache\9b3ae54cce6ff614cac7cf3eed921a1e3f0a5dcc\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\Gedas\.android\build-cache\825fb7089eacd9c1bab26df056f141767d0ada65\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\Gedas\.android\build-cache\a610bf5ff8574ac095abff8ddf9b4362307643af\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\Gedas\.android\build-cache\937e6a446fbea69d87857925fa135d322ad3bafd\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\Gedas\.android\build-cache\5882e450a74a13267d7bae54663c32a05bc77026\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\Gedas\.android\build-cache\ea649ce8571cff51c1306e3fe07ab4c7481331e2\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.github.traex.expandablelayout:library:1.3] C:\Users\Gedas\.android\build-cache\03f590eb3a301c50e019faf4ccf2670f6a27cb09\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.aakira:expandable-layout:1.4.2] C:\Users\Gedas\.android\build-cache\535edea6ddb69b120ad369cfa37e62c7193222d2\output\AndroidManifest.xml:8:5-10:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.1.1] C:\Users\Gedas\.android\build-cache\00e2fe6251e58a92177a16ec7687e9837fcd29f3\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Gedas\Downloads\BitcoinApp-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gedas\Downloads\BitcoinApp-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Gedas\Downloads\BitcoinApp-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gedas\Downloads\BitcoinApp-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:9.0.0] C:\Users\Gedas\.android\build-cache\09c3abc288575092c1ce6821b61e4f4239549e9d\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:9.0.0] C:\Users\Gedas\.android\build-cache\982d60f9ab31d80f0f35c3ec8507062a9ae5bdda\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-nearby:9.0.0] C:\Users\Gedas\.android\build-cache\28173a5c4de1cfffd0658946ca488f83aa6ae5c5\output\AndroidManifest.xml:19:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.0.0] C:\Users\Gedas\.android\build-cache\05d2298f283ddf186f866e7186fa89b0434e2ea9\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.0.0] C:\Users\Gedas\.android\build-cache\c6a8d0f29a2618dc379251b54069b89a258c1410\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Gedas\.android\build-cache\6480e1718cff679b164e2c26888a540a7b97b425\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\Gedas\.android\build-cache\806f9506ab11af7d21856fb1d455dee6611de498\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Gedas\.android\build-cache\333f44dfdc8e3cf9bd64dfa00517c87ba2fefc5c\output\AndroidManifest.xml:20:5-79
+MERGED from [com.google.android.gms:play-services-maps:9.0.0] C:\Users\Gedas\.android\build-cache\62c94e57705cac7270b5ff06c67cdade84fe0f35\output\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.0.0] C:\Users\Gedas\.android\build-cache\09c3abc288575092c1ce6821b61e4f4239549e9d\output\AndroidManifest.xml:21:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.0.0] C:\Users\Gedas\.android\build-cache\09c3abc288575092c1ce6821b61e4f4239549e9d\output\AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.0.0] C:\Users\Gedas\.android\build-cache\09c3abc288575092c1ce6821b61e4f4239549e9d\output\AndroidManifest.xml:28:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.0.0] C:\Users\Gedas\.android\build-cache\09c3abc288575092c1ce6821b61e4f4239549e9d\output\AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.0.0] C:\Users\Gedas\.android\build-cache\09c3abc288575092c1ce6821b61e4f4239549e9d\output\AndroidManifest.xml:27:13-65
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.0.0] C:\Users\Gedas\.android\build-cache\09c3abc288575092c1ce6821b61e4f4239549e9d\output\AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.0.0] C:\Users\Gedas\.android\build-cache\09c3abc288575092c1ce6821b61e4f4239549e9d\output\AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.0.0] C:\Users\Gedas\.android\build-cache\09c3abc288575092c1ce6821b61e4f4239549e9d\output\AndroidManifest.xml:30:19-91
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:9.0.0] C:\Users\Gedas\.android\build-cache\982d60f9ab31d80f0f35c3ec8507062a9ae5bdda\output\AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.0.0] C:\Users\Gedas\.android\build-cache\05d2298f283ddf186f866e7186fa89b0434e2ea9\output\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Gedas\.android\build-cache\6480e1718cff679b164e2c26888a540a7b97b425\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\Gedas\.android\build-cache\806f9506ab11af7d21856fb1d455dee6611de498\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Gedas\.android\build-cache\333f44dfdc8e3cf9bd64dfa00517c87ba2fefc5c\output\AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:9.0.0] C:\Users\Gedas\.android\build-cache\982d60f9ab31d80f0f35c3ec8507062a9ae5bdda\output\AndroidManifest.xml:25:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:9.0.0] C:\Users\Gedas\.android\build-cache\106b80f6a8f247cc86a1ad159e7793ab02612bcc\output\AndroidManifest.xml:21:9-29:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:9.0.0] C:\Users\Gedas\.android\build-cache\106b80f6a8f247cc86a1ad159e7793ab02612bcc\output\AndroidManifest.xml:23:17-40
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:9.0.0] C:\Users\Gedas\.android\build-cache\106b80f6a8f247cc86a1ad159e7793ab02612bcc\output\AndroidManifest.xml:24:17-63
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.0.0] C:\Users\Gedas\.android\build-cache\106b80f6a8f247cc86a1ad159e7793ab02612bcc\output\AndroidManifest.xml:22:17-48
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:9.0.0] C:\Users\Gedas\.android\build-cache\106b80f6a8f247cc86a1ad159e7793ab02612bcc\output\AndroidManifest.xml:25:13-28:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:9.0.0] C:\Users\Gedas\.android\build-cache\106b80f6a8f247cc86a1ad159e7793ab02612bcc\output\AndroidManifest.xml:26:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.0.0] C:\Users\Gedas\.android\build-cache\106b80f6a8f247cc86a1ad159e7793ab02612bcc\output\AndroidManifest.xml:26:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:9.0.0] C:\Users\Gedas\.android\build-cache\106b80f6a8f247cc86a1ad159e7793ab02612bcc\output\AndroidManifest.xml:27:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.0.0] C:\Users\Gedas\.android\build-cache\106b80f6a8f247cc86a1ad159e7793ab02612bcc\output\AndroidManifest.xml:27:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:9.0.0] C:\Users\Gedas\.android\build-cache\273230a756cb99fb6721fd39ae0d6cf91c856b8a\output\AndroidManifest.xml:21:9-24:46
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:9.0.0] C:\Users\Gedas\.android\build-cache\273230a756cb99fb6721fd39ae0d6cf91c856b8a\output\AndroidManifest.xml:23:19-52
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.0.0] C:\Users\Gedas\.android\build-cache\273230a756cb99fb6721fd39ae0d6cf91c856b8a\output\AndroidManifest.xml:24:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:9.0.0] C:\Users\Gedas\.android\build-cache\273230a756cb99fb6721fd39ae0d6cf91c856b8a\output\AndroidManifest.xml:22:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.0.0] C:\Users\Gedas\.android\build-cache\273230a756cb99fb6721fd39ae0d6cf91c856b8a\output\AndroidManifest.xml:21:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:9.0.0] C:\Users\Gedas\.android\build-cache\273230a756cb99fb6721fd39ae0d6cf91c856b8a\output\AndroidManifest.xml:28:9-31:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.0.0] C:\Users\Gedas\.android\build-cache\273230a756cb99fb6721fd39ae0d6cf91c856b8a\output\AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:9.0.0] C:\Users\Gedas\.android\build-cache\273230a756cb99fb6721fd39ae0d6cf91c856b8a\output\AndroidManifest.xml:31:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.0.0] C:\Users\Gedas\.android\build-cache\273230a756cb99fb6721fd39ae0d6cf91c856b8a\output\AndroidManifest.xml:29:13-58
+service#com.google.firebase.crash.internal.service.FirebaseCrashReceiverService
+ADDED from [com.google.firebase:firebase-crash:9.0.0] C:\Users\Gedas\.android\build-cache\186f04217aa9a0e248095d2587475b70db4441c0\output\AndroidManifest.xml:26:9-27:50
+	android:process
+		ADDED from [com.google.firebase:firebase-crash:9.0.0] C:\Users\Gedas\.android\build-cache\186f04217aa9a0e248095d2587475b70db4441c0\output\AndroidManifest.xml:27:13-48
+	android:name
+		ADDED from [com.google.firebase:firebase-crash:9.0.0] C:\Users\Gedas\.android\build-cache\186f04217aa9a0e248095d2587475b70db4441c0\output\AndroidManifest.xml:26:18-79
+service#com.google.firebase.crash.internal.service.FirebaseCrashSenderService
+ADDED from [com.google.firebase:firebase-crash:9.0.0] C:\Users\Gedas\.android\build-cache\186f04217aa9a0e248095d2587475b70db4441c0\output\AndroidManifest.xml:29:9-30:50
+	android:process
+		ADDED from [com.google.firebase:firebase-crash:9.0.0] C:\Users\Gedas\.android\build-cache\186f04217aa9a0e248095d2587475b70db4441c0\output\AndroidManifest.xml:30:13-48
+	android:name
+		ADDED from [com.google.firebase:firebase-crash:9.0.0] C:\Users\Gedas\.android\build-cache\186f04217aa9a0e248095d2587475b70db4441c0\output\AndroidManifest.xml:29:18-77
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:9.0.0] C:\Users\Gedas\.android\build-cache\dabc15cd0cd3330e7c1c23fc4f82c405b8527229\output\AndroidManifest.xml:24:9-30:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:9.0.0] C:\Users\Gedas\.android\build-cache\dabc15cd0cd3330e7c1c23fc4f82c405b8527229\output\AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.0.0] C:\Users\Gedas\.android\build-cache\dabc15cd0cd3330e7c1c23fc4f82c405b8527229\output\AndroidManifest.xml:25:13-82
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:9.0.0] C:\Users\Gedas\.android\build-cache\dabc15cd0cd3330e7c1c23fc4f82c405b8527229\output\AndroidManifest.xml:27:13-29:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:9.0.0] C:\Users\Gedas\.android\build-cache\dabc15cd0cd3330e7c1c23fc4f82c405b8527229\output\AndroidManifest.xml:27:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:9.0.0] C:\Users\Gedas\.android\build-cache\dabc15cd0cd3330e7c1c23fc4f82c405b8527229\output\AndroidManifest.xml:28:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.0.0] C:\Users\Gedas\.android\build-cache\dabc15cd0cd3330e7c1c23fc4f82c405b8527229\output\AndroidManifest.xml:28:25-75
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:9.0.0] C:\Users\Gedas\.android\build-cache\523d0a6605f0d586c5adc8bcd11d408cdd21d833\output\AndroidManifest.xml:21:5-82
+MERGED from [com.google.android.gms:play-services-iid:9.0.0] C:\Users\Gedas\.android\build-cache\e21684c3722ba79c24ca0af1666fde5ae3b5ebb6\output\AndroidManifest.xml:21:5-82
+MERGED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Gedas\.android\build-cache\333f44dfdc8e3cf9bd64dfa00517c87ba2fefc5c\output\AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:9.0.0] C:\Users\Gedas\.android\build-cache\523d0a6605f0d586c5adc8bcd11d408cdd21d833\output\AndroidManifest.xml:21:22-79
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.0.0] C:\Users\Gedas\.android\build-cache\c6a8d0f29a2618dc379251b54069b89a258c1410\output\AndroidManifest.xml:25:9-27:42
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.0.0] C:\Users\Gedas\.android\build-cache\c6a8d0f29a2618dc379251b54069b89a258c1410\output\AndroidManifest.xml:27:17-39
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.0.0] C:\Users\Gedas\.android\build-cache\c6a8d0f29a2618dc379251b54069b89a258c1410\output\AndroidManifest.xml:26:17-41
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.0.0] C:\Users\Gedas\.android\build-cache\c6a8d0f29a2618dc379251b54069b89a258c1410\output\AndroidManifest.xml:25:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.0.0] C:\Users\Gedas\.android\build-cache\c6a8d0f29a2618dc379251b54069b89a258c1410\output\AndroidManifest.xml:28:9-37:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.0.0] C:\Users\Gedas\.android\build-cache\c6a8d0f29a2618dc379251b54069b89a258c1410\output\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.0.0] C:\Users\Gedas\.android\build-cache\c6a8d0f29a2618dc379251b54069b89a258c1410\output\AndroidManifest.xml:29:13-87
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.0.0] C:\Users\Gedas\.android\build-cache\c6a8d0f29a2618dc379251b54069b89a258c1410\output\AndroidManifest.xml:31:13-36:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.0.0] C:\Users\Gedas\.android\build-cache\c6a8d0f29a2618dc379251b54069b89a258c1410\output\AndroidManifest.xml:32:17-72
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.0.0] C:\Users\Gedas\.android\build-cache\c6a8d0f29a2618dc379251b54069b89a258c1410\output\AndroidManifest.xml:32:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.0.0] C:\Users\Gedas\.android\build-cache\c6a8d0f29a2618dc379251b54069b89a258c1410\output\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.0.0] C:\Users\Gedas\.android\build-cache\c6a8d0f29a2618dc379251b54069b89a258c1410\output\AndroidManifest.xml:33:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.0.0] C:\Users\Gedas\.android\build-cache\c6a8d0f29a2618dc379251b54069b89a258c1410\output\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.0.0] C:\Users\Gedas\.android\build-cache\c6a8d0f29a2618dc379251b54069b89a258c1410\output\AndroidManifest.xml:35:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Gedas\.android\build-cache\6480e1718cff679b164e2c26888a540a7b97b425\output\AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\Gedas\.android\build-cache\806f9506ab11af7d21856fb1d455dee6611de498\output\AndroidManifest.xml:28:7-34:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Gedas\.android\build-cache\6480e1718cff679b164e2c26888a540a7b97b425\output\AndroidManifest.xml:30:11-33
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Gedas\.android\build-cache\6480e1718cff679b164e2c26888a540a7b97b425\output\AndroidManifest.xml:29:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Gedas\.android\build-cache\6480e1718cff679b164e2c26888a540a7b97b425\output\AndroidManifest.xml:31:9-33:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Gedas\.android\build-cache\6480e1718cff679b164e2c26888a540a7b97b425\output\AndroidManifest.xml:32:11-77
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Gedas\.android\build-cache\6480e1718cff679b164e2c26888a540a7b97b425\output\AndroidManifest.xml:32:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Gedas\.android\build-cache\6480e1718cff679b164e2c26888a540a7b97b425\output\AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\Gedas\.android\build-cache\806f9506ab11af7d21856fb1d455dee6611de498\output\AndroidManifest.xml:36:7-39:37
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Gedas\.android\build-cache\6480e1718cff679b164e2c26888a540a7b97b425\output\AndroidManifest.xml:38:11-33
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Gedas\.android\build-cache\6480e1718cff679b164e2c26888a540a7b97b425\output\AndroidManifest.xml:39:11-35
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\Gedas\.android\build-cache\6480e1718cff679b164e2c26888a540a7b97b425\output\AndroidManifest.xml:37:11-82
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Gedas\.android\build-cache\333f44dfdc8e3cf9bd64dfa00517c87ba2fefc5c\output\AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Gedas\.android\build-cache\333f44dfdc8e3cf9bd64dfa00517c87ba2fefc5c\output\AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Gedas\.android\build-cache\333f44dfdc8e3cf9bd64dfa00517c87ba2fefc5c\output\AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Gedas\.android\build-cache\333f44dfdc8e3cf9bd64dfa00517c87ba2fefc5c\output\AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Gedas\.android\build-cache\333f44dfdc8e3cf9bd64dfa00517c87ba2fefc5c\output\AndroidManifest.xml:28:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Gedas\.android\build-cache\333f44dfdc8e3cf9bd64dfa00517c87ba2fefc5c\output\AndroidManifest.xml:32:9-41:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Gedas\.android\build-cache\333f44dfdc8e3cf9bd64dfa00517c87ba2fefc5c\output\AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Gedas\.android\build-cache\333f44dfdc8e3cf9bd64dfa00517c87ba2fefc5c\output\AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Gedas\.android\build-cache\333f44dfdc8e3cf9bd64dfa00517c87ba2fefc5c\output\AndroidManifest.xml:33:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Gedas\.android\build-cache\333f44dfdc8e3cf9bd64dfa00517c87ba2fefc5c\output\AndroidManifest.xml:36:13-40:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Gedas\.android\build-cache\333f44dfdc8e3cf9bd64dfa00517c87ba2fefc5c\output\AndroidManifest.xml:37:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Gedas\.android\build-cache\333f44dfdc8e3cf9bd64dfa00517c87ba2fefc5c\output\AndroidManifest.xml:37:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Gedas\.android\build-cache\333f44dfdc8e3cf9bd64dfa00517c87ba2fefc5c\output\AndroidManifest.xml:38:17-86
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Gedas\.android\build-cache\333f44dfdc8e3cf9bd64dfa00517c87ba2fefc5c\output\AndroidManifest.xml:38:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Gedas\.android\build-cache\333f44dfdc8e3cf9bd64dfa00517c87ba2fefc5c\output\AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Gedas\.android\build-cache\333f44dfdc8e3cf9bd64dfa00517c87ba2fefc5c\output\AndroidManifest.xml:39:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Gedas\.android\build-cache\333f44dfdc8e3cf9bd64dfa00517c87ba2fefc5c\output\AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Gedas\.android\build-cache\333f44dfdc8e3cf9bd64dfa00517c87ba2fefc5c\output\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Gedas\.android\build-cache\333f44dfdc8e3cf9bd64dfa00517c87ba2fefc5c\output\AndroidManifest.xml:46:13-86
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Gedas\.android\build-cache\333f44dfdc8e3cf9bd64dfa00517c87ba2fefc5c\output\AndroidManifest.xml:51:9-57:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Gedas\.android\build-cache\333f44dfdc8e3cf9bd64dfa00517c87ba2fefc5c\output\AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Gedas\.android\build-cache\333f44dfdc8e3cf9bd64dfa00517c87ba2fefc5c\output\AndroidManifest.xml:52:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Gedas\.android\build-cache\333f44dfdc8e3cf9bd64dfa00517c87ba2fefc5c\output\AndroidManifest.xml:54:13-56:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Gedas\.android\build-cache\333f44dfdc8e3cf9bd64dfa00517c87ba2fefc5c\output\AndroidManifest.xml:54:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Gedas\.android\build-cache\333f44dfdc8e3cf9bd64dfa00517c87ba2fefc5c\output\AndroidManifest.xml:55:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\Gedas\.android\build-cache\333f44dfdc8e3cf9bd64dfa00517c87ba2fefc5c\output\AndroidManifest.xml:55:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\Gedas\.android\build-cache\a33ef0fd601af73954a772ce4a993d119927b838\output\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\Gedas\.android\build-cache\a33ef0fd601af73954a772ce4a993d119927b838\output\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\Gedas\.android\build-cache\a33ef0fd601af73954a772ce4a993d119927b838\output\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\Gedas\.android\build-cache\a33ef0fd601af73954a772ce4a993d119927b838\output\AndroidManifest.xml:20:19-85
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.0.0] C:\Users\Gedas\.android\build-cache\7c5488749a040315e047648b407d2fa62fdac509\output\AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.0.0] C:\Users\Gedas\.android\build-cache\7c5488749a040315e047648b407d2fa62fdac509\output\AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.0.0] C:\Users\Gedas\.android\build-cache\7c5488749a040315e047648b407d2fa62fdac509\output\AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.0.0] C:\Users\Gedas\.android\build-cache\7c5488749a040315e047648b407d2fa62fdac509\output\AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.0.0] C:\Users\Gedas\.android\build-cache\7c5488749a040315e047648b407d2fa62fdac509\output\AndroidManifest.xml:9:13-58
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\Gedas\.android\build-cache\47def9cb1ddf3d4853e859fb178c714b499032df\output\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\Gedas\.android\build-cache\47def9cb1ddf3d4853e859fb178c714b499032df\output\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\Gedas\.android\build-cache\47def9cb1ddf3d4853e859fb178c714b499032df\output\AndroidManifest.xml:22:13-58

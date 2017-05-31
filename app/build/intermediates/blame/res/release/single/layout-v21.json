@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Gedas\\Downloads\\BitcoinApp-master\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Gedas\\.android\\build-cache\\babd871b413b913ea36a6fd4d595582ed2550615\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gedas\\Downloads\\BitcoinApp-master\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Gedas\\.android\\build-cache\\babd871b413b913ea36a6fd4d595582ed2550615\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gedas\\Downloads\\BitcoinApp-master\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Gedas\\.android\\build-cache\\babd871b413b913ea36a6fd4d595582ed2550615\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gedas\\Downloads\\BitcoinApp-master\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Gedas\\.android\\build-cache\\babd871b413b913ea36a6fd4d595582ed2550615\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gedas\\Downloads\\BitcoinApp-master\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\Gedas\\.android\\build-cache\\40bb61a2365cefc3bac6252fe68d79b08a1cbce4\\output\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    }
+]
