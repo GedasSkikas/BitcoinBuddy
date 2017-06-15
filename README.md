@@ -5,7 +5,7 @@ From within the app, users can check what the price of Bitcoin is in real-time, 
 
 The app utilizes RESTful APIs in conjuction with Retrofit 2.
 
-APIs used to pull store data and Bitcoin price in real time:
+APIs used to pull the needed data for Bitcoin price and locations:
 * https://coinmap.org/api/v1/venues/
 * http://www.coindesk.com/api/
 
